@@ -1,4 +1,4 @@
-# FitHub-CRM
+# FitHub-CRM Fitness Center Management
 
 Project Overview
      Fit HUB CRM is a simple system to manage members, trainers, subscriptions, and payments in a fitness center.
